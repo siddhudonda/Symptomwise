@@ -141,7 +141,7 @@ def analyze_symptom(user_input):
         print(f"Extracted disease/symptom: {disease}")
 
         # Step 2.2: Fetch Relevant YouTube Videos
-        YOUTUBE_API_KEY = "AIzaSyA5uBHdt0-wrBPqpISPAVzrVnKm1F_Dw3Y"  # Replace with your YouTube API key
+        YOUTUBE_API_KEY = "YOUTUBE_API_KEY"  # Replace with your YouTube API key
         youtube = build("youtube", "v3", developerKey=YOUTUBE_API_KEY)
 
         # Search for videos related to the extracted disease/symptom
