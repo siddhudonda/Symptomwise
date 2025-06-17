@@ -12,14 +12,3 @@ SymptomWise is an intelligent, AI-powered application designed to assist users i
 - 📊 Visualization-ready architecture (future)
 - ⚙️ Scalable, modular codebase built for expansion
 
----
-
-## 🧠 Tech Stack
-
-- **Frontend**: React Native (or React.js)
-- **Backend**: Node.js / Express (if any)
-- **Model**: Python + Scikit-learn or TensorFlow
-- **Data Storage**: JSON/CSV for training data (initial stage)
-- **Deployment**: GitHub (and optionally Streamlit, Gradio, or Web server)
-
----
