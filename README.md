@@ -3,7 +3,7 @@
 SymptomWise is an intelligent, AI-powered application designed to assist users in identifying possible illnesses based on their symptoms. The system aims to enhance early detection and awareness using modern machine learning technologies and a user-friendly interface.
 
 ---
-
+                
 ## 🚀 Features
 
 - 🔍 Symptom input and dynamic form support
